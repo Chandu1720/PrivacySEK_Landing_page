@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/regulations/dpdp",
+      "destination": "/dpdp",
+      "permanent": true
+    },
+    {
+      "source": "/solutions",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/dpdp/readiness",
+      "destination": "/dpia-assessment-tool",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/assessment-consulting",
+      "destination": "/services/privacy-assessments",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/product-support",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/virtual-ciso-virtual-dpo",
+      "destination": "/services/virtual-dpo-ciso",
+      "permanent": true
+    },
+    {
+      "source": "/platform/Data%20protection%20and%20Enforcement-incident-management",
+      "destination": "/platform/breach-response",
+      "permanent": true
+    },
+    {
+      "source": "/platform/purpose-guard",
+      "destination": "/platform",
+      "permanent": true
+    },
+    {
+      "source": "/platform/proof-ledger",
+      "destination": "/platform",
+      "permanent": true
+    },
+    {
+      "source": "/platform/person-finder",
+      "destination": "/platform/dsar",
+      "permanent": true
+    },
+    {
+      "source": "/platform/reports",
+      "destination": "/platform/obligation-cockpit",
+      "permanent": true
+    },
+    {
+      "source": "/platform/data-retention",
+      "destination": "/platform/data-discovery",
+      "permanent": true
+    },
+    {
+      "source": "/platform/privacy-training",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/platform/trust-center",
+      "destination": "/platform/consent-management",
+      "permanent": true
+    },
+    {
+      "source": "/platform/ai-governance",
+      "destination": "/platform",
+      "permanent": true
+    }
+  ]
+}
